@@ -1,5 +1,5 @@
 # React
-Free resources to learn React.js:
+Some resources to learn React.js:
 
 <ul>
         <li><a href="https://www.evernote.com/shard/s386/u/0/sh/69d5d795-f665-4fc0-afaf-5e3dca07a2c0/062d1da0fc01025b1fbdc18d4ea29708">The React Handbook</a></li>
